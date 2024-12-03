@@ -8,8 +8,8 @@ div {
   font-size: x-large;
 }
 #saludo {
-  background-color: chocolate;
-  color: beige;
+  background-color: hsl(235, 12%, 43%);
+  color: rgb(0, 0, 0);
 }
 .classic {
   background-color: blue;
@@ -32,9 +32,17 @@ div[lang] {
 .box p {
   color: red;
 }
-p {
+.box p {
   width: 300px;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
+}
+
+p {
+  border-radius: 10px;
+}
+
+div {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
