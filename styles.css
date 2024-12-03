@@ -24,3 +24,10 @@ button.classic.primary.large {
   background-color: brown;
   color: beige;
 }
+div[lang] {
+  font-weight: bold;
+  background-color: aquamarine;
+}
+.box p {
+  color: red;
+}
