@@ -19,6 +19,7 @@ div {
 .back {
   background-color: chocolate;
   color: beige;
+  short
 }
 button.classic.primary.large {
   background-color: brown;
@@ -30,4 +31,10 @@ div[lang] {
 }
 .box p {
   color: red;
+}
+p {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
