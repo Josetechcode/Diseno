@@ -1,0 +1,22 @@
+h1 {
+  color: aqua;
+}
+span {
+  color: blueviolet;
+}
+div {
+  font-size: x-large;
+}
+#saludo {
+  background-color: chocolate;
+  color: beige;
+}
+.classic {
+  background-color: blue;
+  color: beige;
+}
+
+.back {
+  background-color: chocolate;
+  color: beige;
+}
